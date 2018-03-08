@@ -1,0 +1,49 @@
+.mainDiv{
+   background: white;
+   display: flex;
+   justify-content:space-around;
+}
+
+.sub1{
+  background:#A78BCF ;
+border-radius: 10px;
+box-shadow: 2px 5px 0 0 black;
+
+}
+.sub1 img{
+  margin: 2px;
+  width: 150px;
+  height:200px;
+  border-radius: 5px;
+}
+.sub2{
+background:#A78BCF ;
+border-radius: 10px;
+box-shadow: 2px 5px 0 0 black;
+
+}
+.sub2 img{
+  margin: 2px;
+  width: 150px;
+  height:200px;
+  border-radius: 5px;
+}
+.sub3{
+  background:#A78BCF;
+  border-radius: 10px;
+  box-shadow: 2px 5px 0 0 black;
+}
+.sub3 img{
+  margin: 2px;
+  width: 150px;
+  height:200px;
+  border-radius: 5px;
+}
+body{
+background: #93CF8B;
+}
+@media all and (max-width:768px) {
+body{
+  background: red;
+}
+}
